@@ -1,0 +1,19 @@
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\computer science\Sicond year\CS\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\B21 Ex05 AndrioHanania 322273087\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\andrio\Desktop\X Mix Drix Reverse\GameLogic\obj\Debug\GameLogic.pdb
